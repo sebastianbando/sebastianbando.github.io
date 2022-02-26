@@ -83,3 +83,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  
+  # Poems
+  collections:
+  - Wiersze
