@@ -2,12 +2,10 @@
 layout: page
 title: About
 permalink: /about/
-published: true
+published: false
 ---
 
-Some information about you!
-
-(test)
+Some information about me!
 
 ### More Information
 
