@@ -9,7 +9,7 @@ name: Sebastian Bando
 description: Artistic Expression
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ./images/SB.jpg
+avatar: /images/SB.jpg
 #
 # Flags below are optional
 #
