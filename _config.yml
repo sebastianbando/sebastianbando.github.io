@@ -84,6 +84,6 @@ exclude:
   - README.md
   - CNAME
   
-  # Poems
-  collections:
-  - Wiersze
+# Poems
+collections:
+- Wiersze
