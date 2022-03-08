@@ -1,5 +1,18 @@
+---
+layout: default
+title: Rysunki
+permalink: /rysunki/
+published: true
+---
+
 ## Rysunki
 
-Tu pojawi się lista rysunków.
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+<div class="posts covers-container">
+  {% for post in site.categories.rysunek %}
+      <div class="single-cover">
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          {{ post.excerpt }}
+        </a>
+      </div>
+  {% endfor %}
+</div>

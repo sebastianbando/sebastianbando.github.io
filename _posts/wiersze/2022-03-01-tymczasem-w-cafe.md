@@ -1,3 +1,9 @@
+---
+layout: post
+title: Tymczasem w café
+category: wiersz
+---
+
 ##Tymczasem w café
 
 Tymczasem
